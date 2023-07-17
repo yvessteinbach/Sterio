@@ -1,7 +1,7 @@
 [
 
-{"title":"SRF 3","url":"http://stream.srg-ssr.ch/drs3/mp3_128.m3u","img":"https://medien.srf.ch/documents/20142/2180129/421782.jpg/00d31ef7-e253-1385-a7da-452298f77365?t=1668419098380"},
-{"title":"SRF Virus","url":"http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u","img":"https://medien.srf.ch/documents/20142/2180129/421780.jpg/a880ea52-c1f6-9459-4e35-59c786fe4419?t=1556326645880"},
+{"title":"SRF 3","url":"http://stream.srg-ssr.ch/drs3/mp3_128.m3u","img":"https://www.srf.ch/var/storage/assets/webpack/images/radio-srf-3-square.a0323d81.svg"},
+{"title":"SRF Virus","url":"http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u","img":"https://www.srf.ch/var/storage/assets/webpack/images/radio-srf-virus-square.c4088a9d.svg"},
 {"title":"Energy Basel","url":"https://energybern.ice.infomaniak.ch/energybasel-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_basel_1638179073.svg"},
 {"title":"Energy Zürich","url":"https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_zuerich_1638178796.svg"},
 {"title":"Energy Bern","url":"https://energybern.ice.infomaniak.ch/energybern-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg"},

@@ -1,0 +1,11 @@
+[
+
+{"title":"SRF 3","url":"http://stream.srg-ssr.ch/drs3/mp3_128.m3u","img":"https://medien.srf.ch/documents/20142/2180129/421782.jpg/00d31ef7-e253-1385-a7da-452298f77365?t=1668419098380"},
+{"title":"SRF Virus","url":"http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u","img":"https://cdn.radyofenomen.com/artwork/logo20.png"},
+{"title":"Metro FM","url":"https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?/;stream.mp3","img":"https://mediacdns.karnaval.com/media/station_media/2/logos/meta_image.png"},
+{"title":"Pal Station","url":"http://shoutcast.radyogrup.com:1020/live","img":"https://upload.wikimedia.org/wikipedia/tr/thumb/5/51/Pal_Station_logo.png/532px-Pal_Station_logo.png"},
+{"title":"Fenomen Türk","url":"https://listen.radyofenomen.com/fenomenturk/128/icecast.audio","img":"https://cdn.radyofenomen.com/artwork/logo40.png"},
+{"title":"Fenomen Türkçe Rap","url":"https://listen.radyofenomen.com/fenomenturkrap/96/icecast.audio","img":"https://cdn.radyofenomen.com/artwork/logo58.png"},
+{"title":"Fenomen 2010","url":"https://listen.radyofenomen.com/fenomen2010/128/icecast.audio","img":"https://cdn.radyofenomen.com/artwork/logo67.png"}
+
+]

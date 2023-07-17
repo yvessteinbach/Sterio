@@ -1,11 +1,19 @@
 [
 
-{"title":"SRF 3","url":"http://stream.srg-ssr.ch/drs3/mp3_128.m3u","img":"https://www.srf.ch/var/storage/assets/webpack/images/radio-srf-3-square.a0323d81.svg"},
-{"title":"SRF Virus","url":"http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u","img":"https://www.srf.ch/var/storage/assets/webpack/images/radio-srf-virus-square.c4088a9d.svg"},
-{"title":"Energy Basel","url":"https://energybern.ice.infomaniak.ch/energybasel-high.mp3","img":"https://pasteboard.co/kOLF3jAbyN3E.png"},
-{"title":"Energy Zürich","url":"https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_zuerich_1638178796.svg"},
-{"title":"Energy Bern","url":"https://energybern.ice.infomaniak.ch/energybern-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg"},
-{"title":"Energy Luzern","url":"https://energybern.ice.infomaniak.ch/energyluzern-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_luzern_1638179194.svg"},
-{"title":"Energy St.Gallen","url":"https://energybern.ice.infomaniak.ch/energystgallen-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_stgallen_1652256735.svg"}
+{"title":"SRF 3","url":"http://stream.srg-ssr.ch/drs3/mp3_128.m3u","img":"https://static.mytuner.mobi/media/radios-150px/8S4qGytr8f.png"},
+{"title":"SRF Virus","url":"http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u","img":"https://static.mytuner.mobi/media/radios-150px/3dEg2QhxNP.png"},
+{"title":"Energy Basel","url":"https://energybern.ice.infomaniak.ch/energybasel-high.mp3","img":"https://static.mytuner.mobi/media/radios-150px/pjLqFMXQk6.png"},
+{"title":"Energy Zürich","url":"https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3","img":"https://static.mytuner.mobi/media/radios-150px/AfaHtAADzH.png"},
+{"title":"Energy Bern","url":"https://energybern.ice.infomaniak.ch/energybern-high.mp3","img":"https://static.mytuner.mobi/media/radios-150px/zSE3Gfz7zQ.png"},
+{"title":"Energy Luzern","url":"https://energybern.ice.infomaniak.ch/energyluzern-high.mp3","img":"https://static.mytuner.mobi/media/radios-150px/52Z9rNZyz9.jpg"},
+{"title":"Energy St.Gallen","url":"https://energybern.ice.infomaniak.ch/energystgallen-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_stgallen_1652256735.svg"},
+{"title":"GOAT Radio","url":"","img":"https://static.mytuner.mobi/media/radios-150px/pynl4aza7myj.png"},
+{"title":"Radio Swiss Pop","url":"","img":"https://static.mytuner.mobi/media/radios-150px/EDNzjdxLpE.png"},
+{"title":"Radio Pilatus","url":"","img":"https://static.mytuner.mobi/media/radios-150px/TjbER4CFMS.png"},
+{"title":"Flashback FM","url":"","img":"https://static.mytuner.mobi/media/radios-150px/BppUWmMByZ.png"},
+{"title":"Radio Argovia","url":"","img":"https://static.mytuner.mobi/media/radios-150px/mn7DQkK5GM.png"},
+{"title":"Radio FM1","url":"","img":"https://static.mytuner.mobi/media/radios-150px/jwxmBRDJpt.jpg"},
+{"title":"Radio Bern1","url":"","img":"https://static.mytuner.mobi/media/radios-150px/HVLwpdsmLc.jpg"}
+{"title":"Radio Fribourg","url":"","img":"https://static.mytuner.mobi/media/radios-150px/daDz7D7jEP.png"}
 
 ]

@@ -7,13 +7,13 @@
 {"title":"Energy Bern","url":"https://energybern.ice.infomaniak.ch/energybern-high.mp3","img":"https://static.mytuner.mobi/media/radios-150px/zSE3Gfz7zQ.png"},
 {"title":"Energy Luzern","url":"https://energybern.ice.infomaniak.ch/energyluzern-high.mp3","img":"https://static.mytuner.mobi/media/radios-150px/52Z9rNZyz9.jpg"},
 {"title":"Energy St.Gallen","url":"https://energybern.ice.infomaniak.ch/energystgallen-high.mp3","img":"https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_stgallen_1652256735.svg"},
-{"title":"GOAT Radio","url":"","img":"https://static.mytuner.mobi/media/radios-150px/pynl4aza7myj.png"},
-{"title":"Radio Swiss Pop","url":"","img":"https://static.mytuner.mobi/media/radios-150px/EDNzjdxLpE.png"},
-{"title":"Radio Pilatus","url":"","img":"https://static.mytuner.mobi/media/radios-150px/TjbER4CFMS.png"},
+{"title":"GOAT Radio","url":"https://audio.20min.ch/","img":"https://static.mytuner.mobi/media/radios-150px/pynl4aza7myj.png"},
+{"title":"Radio Swiss Pop","url":"https://stream.srg-ssr.ch/m/rsp/mp3_128","img":"https://static.mytuner.mobi/media/radios-150px/EDNzjdxLpE.png"},
+{"title":"Radio Pilatus","url":"https://stream.streambase.ch/radiopilatus/mp3-192/","img":"https://static.mytuner.mobi/media/radios-150px/TjbER4CFMS.png"},
 {"title":"Flashback FM","url":"","img":"https://static.mytuner.mobi/media/radios-150px/BppUWmMByZ.png"},
-{"title":"Radio Argovia","url":"","img":"https://static.mytuner.mobi/media/radios-150px/mn7DQkK5GM.png"},
-{"title":"Radio FM1","url":"","img":"https://static.mytuner.mobi/media/radios-150px/jwxmBRDJpt.jpg"},
-{"title":"Radio Bern1","url":"","img":"https://static.mytuner.mobi/media/radios-150px/HVLwpdsmLc.jpg"},
-{"title":"Radio Fribourg","url":"","img":"https://static.mytuner.mobi/media/radios-150px/daDz7D7jEP.png"}
+{"title":"Radio Argovia","url":"https://chmedia.streamabc.net/79-argovia-mp3-192-3024993?sABC=64o81708%230%23101171412292o5386s8691094q12o5p0%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1689786120","img":"https://static.mytuner.mobi/media/radios-150px/mn7DQkK5GM.png"},
+{"title":"Radio FM1","url":"https://stream.streambase.ch/radiofm1/mp3-192/","img":"https://static.mytuner.mobi/media/radios-150px/jwxmBRDJpt.jpg"},
+{"title":"Radio Bern1","url":"https://stream.streambase.ch/radiobern1/mp3-192/","img":"https://static.mytuner.mobi/media/radios-150px/HVLwpdsmLc.jpg"},
+{"title":"Radio Fribourg","url":"https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3","img":"https://static.mytuner.mobi/media/radios-150px/daDz7D7jEP.png"}
 
 ]

@@ -1,2 +1,0 @@
-# Sterio
-Radio Player App
